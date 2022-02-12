@@ -11,9 +11,8 @@ module.exports = {
     siteTitleAlt: `Kitsune Portfolio`,
     siteHeadline: `Kitsune's Portfolio`,
     siteUrl: `https://www.kitsune-yk.tokyo/`,
-    siteDescription: ` and Colorful One-Page portfolio featuring Parallax effects and animations`,
+    siteDescription: `kitsuneのポートフォリオです。`,
     siteLanguage: `ja`,
-    siteImage: `/banner.jpg`,
     author: `@kitsune`,
   },
   plugins: [
