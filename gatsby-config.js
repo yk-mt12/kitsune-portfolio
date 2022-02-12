@@ -10,11 +10,11 @@ module.exports = {
     siteTitle: `Kitsune`,
     siteTitleAlt: `Kitsune Portfolio`,
     siteHeadline: `Kitsune's Portfolio`,
-    siteUrl: `https://cara.lekoarts.de`,
+    siteUrl: `https://www.kitsune-yk.tokyo/`,
     siteDescription: ` and Colorful One-Page portfolio featuring Parallax effects and animations`,
-    siteLanguage: `en`,
+    siteLanguage: `ja`,
     siteImage: `/banner.jpg`,
-    author: `@lekoarts_de`,
+    author: `@kitsune`,
   },
   plugins: [
     {
