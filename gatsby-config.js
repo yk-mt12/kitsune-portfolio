@@ -13,6 +13,7 @@ module.exports = {
     siteUrl: `https://www.kitsune-yk.tokyo/`,
     siteDescription: `kitsuneのポートフォリオです。`,
     siteLanguage: `ja`,
+    siteImage: `./static/logo.png`,
     author: `@kitsune`,
   },
   plugins: [
@@ -35,12 +36,12 @@ module.exports = {
         display: `standalone`,
         icons: [
           {
-            src: `/android-chrome-192x192.png`,
+            src: `./static/logo.png`,
             sizes: `192x192`,
             type: `image/png`,
           },
           {
-            src: `/android-chrome-512x512.png`,
+            src: `./static/logo.png`,
             sizes: `512x512`,
             type: `image/png`,
           },
